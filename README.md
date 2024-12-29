@@ -44,7 +44,7 @@ CV_Ranker/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CV_Ranker.git
+   git clone https://github.com/JMadhan1/Resume_ranker-using-NLP.git
    ```
 
 2. **Set up the Virtual Environment:**
